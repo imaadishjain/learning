@@ -1,4 +1,4 @@
 Hi i am learining the Git
 Hello to the audiance welcome to my course
 
-This code belong to branch b1
+This is branched b2 coding
